@@ -1,0 +1,86 @@
+.one{
+    position: fixed;
+    top:0;
+    background-color: chocolate;
+    width: 100%;
+    padding:20px;
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.flex1{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.flex2{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.two{
+    box-sizing: border-box;
+    border:4px groove white;
+    width:400px;
+    text-align: center;
+    height:450px ;
+    
+    padding-top: 40px;
+
+}
+.three{
+    box-sizing: border-box;
+    border:4px groove white;
+    width:400px;
+    height:450px;
+    text-align: center;
+    padding-top: 40px;
+    
+
+
+}
+.four{
+    
+    box-sizing: border-box;
+    
+    border: 4px groove white;
+    height:450px;
+    width:400px;
+    text-align: center;
+    padding-top: 40px;
+}
+.five{
+    box-sizing: border-box;
+    padding-top: 40px;
+    border:4px groove white;
+    width:400px;
+    height:450px;
+    text-align: center;
+}
+.six{
+    box-sizing: border-box;
+    padding-top: 40px;
+    border:4px groove white;
+    width:400px;
+    height:450px;
+    text-align: center;
+
+
+}
+.seven{
+    
+    box-sizing: border-box;
+    border: 4px  white groove;
+    width:400px;
+    height:450px;
+    text-align: center;
+    padding-top: 40px;
+    
+}
+footer p {
+    background-color: red;
+    font-size: 20px;
+    text-align: center;
+    height: 50px;
+    padding-top: 20px;
+}
